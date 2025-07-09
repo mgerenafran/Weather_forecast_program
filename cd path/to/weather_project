@@ -1,0 +1,11 @@
+cd path/to/weather_project
+git init
+git add .
+git commit -m "Initial commit of weather forecast program"
+git branch -M main
+git remote add origin https://github.com/Mgerenafran/weather_forecast_program.git
+git push -u origin main
+git add README.md
+git commit -m "Add README"
+git push
+
